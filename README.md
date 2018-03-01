@@ -25,3 +25,12 @@ $ npm run build
 $ npm run start
 ```
 
+# 注意点
+Wiki記法で対応しているのはリストとリンクのみ
+例:
+```
+- list1
+- list2
+@ FrontPage
+
+```
